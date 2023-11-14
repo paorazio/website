@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Paola DOrazio # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://paoladorazio.com/' # Website URL
 
 ############################
 ## LANGUAGE
