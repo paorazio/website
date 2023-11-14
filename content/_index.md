@@ -239,7 +239,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: paola.dorazio@wiwi.tu-chemnitz.de
       # phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      # appointment_url: 'https://calendly.com'
       address:
         street: Thuringer Weg 7
         city: Chemnitz
