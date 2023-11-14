@@ -241,7 +241,7 @@ sections:
       # phone: 888 888 88 88
       appointment_url: 'https://calendly.com'
       address:
-        street: Thüringer Weg 7, Room 213
+        street: Thuringer Weg 7, Room 213
         city: Chemnitz
         region: Sachsen
         postcode: '09126'
