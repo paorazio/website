@@ -82,7 +82,7 @@ sections:
           location: Washington, USA
           date_start: '2022-09-01'
           date_end: '2023-09-30'
-         design:
+        design:
       columns: '2'
     - block: collection
     content:
