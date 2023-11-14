@@ -65,7 +65,7 @@ sections:
    items:
         - title: Postdoctoral Researcher
           company: Ruhr University Bochum
-          company_url: ''
+          # company_url: ''
           # company_logo: org-gc
           location: Bochum, Germany
           date_start: '2016-03-01'
@@ -73,7 +73,7 @@ sections:
 
   - title: Researcher Fellow - Research Department Closed Carbon Cycle Economy (CCCE)
           company: Ruhr University Bochum
-          company_url: ''
+          # company_url: ''
           # company_logo: org-gc
           location: Bochum, Germany
           date_start: '2018-10-01'
@@ -82,7 +82,7 @@ sections:
 
     - title: Researcher Fellow - Centrum fur Umweltmanagement, Ressourcen und Energie (CURE)
           company: Ruhr University Bochum
-          company_url: ''
+          # company_url: ''
           # company_logo: org-gc
           location: Bochum, Germany
           date_start: '2020-10-01'
@@ -90,8 +90,8 @@ sections:
          
       - title: Short-term Consultant
           company: World Bank
-          company_url: ''
-          company_logo: org-x
+          # company_url: ''
+          # company_logo: org-x
           location: Washington, USA
           date_start: '2022-09-01'
           date_end: '2023-09-30'
