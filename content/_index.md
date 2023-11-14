@@ -42,48 +42,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-     - title: Postdoctoral Researcher
-          company: Ruhr University Bochum
-          # company_url: ''
-          # company_logo: org-gc
-          location: Bochum, Germany
-          date_start: '2016-03-01'
-          date_end: '2023-04-30'
-  - title: Researcher Fellow - Research Department Closed Carbon Cycle Economy (CCCE)
-          company: Ruhr University Bochum
-          # company_url: ''
-          # company_logo: org-gc
-          location: Bochum, Germany
-          date_start: '2018-10-01'
-          date_end: '2023-04-30'
-    - title: Researcher Fellow - Centrum fur Umweltmanagement, Ressourcen und Energie (CURE)
-          company: Ruhr University Bochum
-          # company_url: ''
-          # company_logo: org-gc
-          location: Bochum, Germany
-          date_start: '2020-10-01'
-          date_end: '2023-04-30' 
-      - title: Short-term Consultant
-          company: World Bank
-          # company_url: ''
-          # company_logo: org-x
-          location: Washington, USA
-          date_start: '2022-09-01'
-          date_end: '2023-09-30'
-        design:
-      columns: '2'
     - block: collection
     content:
       title: Recent Publications
