@@ -1,18 +1,15 @@
 ---
-title: Example Talk
+title: An integrated ABM approach to understanding the impact of pandemics and fiscal stimuli on the economy and climate
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: Cross-border climate change impacts and systemic risks in Europe and beyond Conference
+event_url: https://www.pik-potsdam.de/en/institute/departments/climate-resilience/conferences/cross-border-risk-conference
 
-location: Hugo Blox Builder HQ
+location: Potsdam Institute for Climate Impact Research
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  city: Potsdam
+  country: Germany
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+summary: An integrated ABM approach to understanding the impact of pandemics and fiscal stimuli on the economy and climate
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
