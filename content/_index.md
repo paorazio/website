@@ -42,7 +42,7 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
+  # - block: skills
     content:
       title: Skills
       text: ''
@@ -50,7 +50,7 @@ sections:
       username: admin
     design:
       columns: '1'
-  - block: experience
+  # - block: experience
     content:
       title: Experience
       # Date format for experience
@@ -85,7 +85,7 @@ sections:
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
-  - block: accomplishments
+ # - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
@@ -127,7 +127,7 @@ sections:
           url: ''
     design:
       columns: '2'
-  - block: collection
+ # - block: collection
     id: posts
     content:
       title: Recent Posts
@@ -154,7 +154,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: portfolio
+ # - block: portfolio
     id: projects
     content:
       title: Projects
@@ -181,7 +181,7 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
+#  - block: markdown
     content:
       title: Gallery
       subtitle: ''
@@ -189,7 +189,7 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-  - block: collection
+#  - block: collection
     id: featured
     content:
       title: Featured Publications
@@ -235,27 +235,27 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      #  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
+      email: paola.dorazio@wiwi.tu-chemnitz.de
+      # phone: 888 888 88 88
       appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
+        street: Thüringer Weg 7, Room 213
+        city: Chemnitz
+        region: Sachsen
+        postcode: '09126'
+        country: Germany
+        country_code: DE
+      # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      # office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
+      # coordinates:
         latitude: '37.4275'
         longitude: '-122.1697'  
-      contact_links:
+      # contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
