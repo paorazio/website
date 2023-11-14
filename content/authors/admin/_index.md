@@ -79,5 +79,5 @@ social:
 highlight_name: true
 ---
 
-Welcome to my website! I am a Junior Professor of Economics at the Chemnitz University of Technology. I specialize in climate-related financial policies, specifically focusing on the intersection between climate change and the financial sector. The primary objective of my research is to enhance our understanding of the macro-financial risks associated with climate change, and the insights generated from my research play a critical role in shaping climate change policies and promoting financial stability. {style="text-align: justify;"}
+Welcome to my website! I am a Junior Professor of Economics at the Chemnitz University of Technology. I specialize in climate-related financial policies, specifically focusing on the intersection between climate change and the financial sector. The primary objective of my research is to enhance our understanding of the macro-financial risks associated with climate change, and the insights generated from my research play a critical role in shaping climate change policies and promoting financial stability.
 
