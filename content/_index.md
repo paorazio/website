@@ -55,27 +55,39 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
+     - title: Postdoctoral Researcher
+          company: Ruhr University Bochum
+          # company_url: ''
+          # company_logo: org-gc
+          location: Bochum, Germany
+          date_start: '2016-03-01'
+          date_end: '2023-04-30'
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+  - title: Researcher Fellow - Research Department Closed Carbon Cycle Economy (CCCE)
+          company: Ruhr University Bochum
+          # company_url: ''
+          # company_logo: org-gc
+          location: Bochum, Germany
+          date_start: '2018-10-01'
+          date_end: '2023-04-30'
+
+
+    - title: Researcher Fellow - Centrum fur Umweltmanagement, Ressourcen und Energie (CURE)
+          company: Ruhr University Bochum
+          # company_url: ''
+          # company_logo: org-gc
+          location: Bochum, Germany
+          date_start: '2020-10-01'
+          date_end: '2023-04-30'
+         
+      - title: Short-term Consultant
+          company: World Bank
+          # company_url: ''
+          # company_logo: org-x
+          location: Washington, USA
+          date_start: '2022-09-01'
+          date_end: '2023-09-30'
+        
     design:
       columns: '2'
   - block: accomplishments
