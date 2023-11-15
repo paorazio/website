@@ -5,7 +5,7 @@ event: Cross-border climate change impacts and systemic risks in Europe and beyo
 event_url: https://www.pik-potsdam.de/en/institute/departments/climate-resilience/conferences/cross-border-risk-conference
 
 location: Potsdam Institute for Climate Impact Research
-address: ' '
+address:  
   city: Potsdam
   country: Germany
 
