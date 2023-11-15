@@ -10,7 +10,7 @@ address:
   country: Germany
 
 summary: An integrated ABM approach to understanding the impact of pandemics and fiscal stimuli on the economy and climate
-abstract: 'The paper discusses how infectious diseases, including the COVID-19 pandemic, significantly impact public health, the economy, and society. It points out that while the COVID-19 pandemic has shown the link between climate change and human health and how global crises can unfold, there's a gap in existing research regarding the combined risks of climate change and pandemics. The paper introduces the CliMaPanLab model, which combines economic and financial dynamics, a climate component, and factors in the potential for new infectious diseases like COVID-19. The CliMaPanLab is used in this study to explore strategies for short-term economic recovery that promote long-term environmental sustainability.'
+abstract: 'The paper discusses how infectious diseases, including the COVID-19 pandemic, significantly impact public health, the economy, and society. It points out that while the COVID-19 pandemic has shown the link between climate change and human health and how global crises can unfold, there's a gap in existing research regarding the combined risks of climate change and pandemics.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
