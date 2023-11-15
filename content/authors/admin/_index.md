@@ -26,7 +26,7 @@ organizations:
     url: https://www.tu-chemnitz.de/wirtschaft/jpvwl/index.php.en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the role of central banks and financial regulators and supervisors in creating a stable financial system and transitioning to a low-carbon economy.
+bio: Macro-financial risks | Financial stability | Climate-Related Financial Policy Index (CRFPI) My research interests include the role of central banks and financial regulators and supervisors in creating a stable financial system and transitioning to a low-carbon economy.
 
 # Interests to show in About widget
 interests:
@@ -79,5 +79,5 @@ social:
 highlight_name: true
 ---
 
-Welcome to my website! I am a Junior Professor of Economics at the Chemnitz University of Technology. I specialize in climate-related financial policies, specifically focusing on the intersection between climate change and the financial sector. The primary objective of my research is to enhance our understanding of the macro-financial risks associated with climate change, and the insights generated from my research play a critical role in shaping climate change policies and promoting financial stability.
+Welcome to my website! I am a Junior Professor of Economics at the Chemnitz University of Technology. I specialize in climate-related financial policies, specifically focusing on the intersection between climate change and the financial sector. The primary objective of my research is to enhance our understanding of the macro-financial risks associated with climate change and of the policies and regulations to tackle these risks.
 
