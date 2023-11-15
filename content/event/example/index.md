@@ -29,7 +29,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
 links:
@@ -39,7 +39,7 @@ links:
   #  url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: 'https://www.dropbox.com/scl/fi/jkfzh89t4fuv6jf8e2m89/DOrazio_PIK2023.pdf?rlkey=dd0quuadzqu80kgpjclk3t526&dl=0'
 url_video: ''
 
 # Markdown Slides (optional).
@@ -47,7 +47,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: DOrazio_PIK2023.pdf
+# slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
