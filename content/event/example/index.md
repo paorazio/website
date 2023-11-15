@@ -5,7 +5,7 @@ event: Cross-border climate change impacts and systemic risks in Europe and beyo
 event_url: https://www.pik-potsdam.de/en/institute/departments/climate-resilience/conferences/cross-border-risk-conference
 
 location: Potsdam Institute for Climate Impact Research
-address:
+address: ' '
   city: Potsdam
   country: Germany
 
@@ -39,7 +39,7 @@ links:
   #  url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: 'https://www.dropbox.com/scl/fi/jkfzh89t4fuv6jf8e2m89/DOrazio_PIK2023.pdf?rlkey=dd0quuadzqu80kgpjclk3t526&dl=0'
+url_slides: https://www.dropbox.com/scl/fi/jkfzh89t4fuv6jf8e2m89/DOrazio_PIK2023.pdf?rlkey=dd0quuadzqu80kgpjclk3t526&dl=0
 url_video: ''
 
 # Markdown Slides (optional).
